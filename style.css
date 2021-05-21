@@ -58,3 +58,11 @@ body {
         background-color: cornflowerblue;
     }
 }
+@media screen and (max-width: 1999px) and (min-width: 992px){
+    .content {
+        width:50%;
+    }
+    .sideboard{
+        width: 50%;
+    }
+}
